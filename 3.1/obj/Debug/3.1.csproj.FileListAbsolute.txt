@@ -1,0 +1,7 @@
+C:\Users\SystemX\source\repos\123\3.1\bin\Debug\3.1.exe.config
+C:\Users\SystemX\source\repos\123\3.1\bin\Debug\3.1.exe
+C:\Users\SystemX\source\repos\123\3.1\bin\Debug\3.1.pdb
+C:\Users\SystemX\source\repos\123\3.1\obj\Debug\3.1.csproj.AssemblyReference.cache
+C:\Users\SystemX\source\repos\123\3.1\obj\Debug\3.1.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\source\repos\123\3.1\obj\Debug\3.1.exe
+C:\Users\SystemX\source\repos\123\3.1\obj\Debug\3.1.pdb
